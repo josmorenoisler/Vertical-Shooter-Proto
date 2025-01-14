@@ -30,5 +30,11 @@ The Strategy pattern is a behavioral design pattern that enables the object to a
 In this case, we'll use this pattern to assign different firing strategies to the different weapons in the game.
 
 # Content
+- Splines for enemies path
+- Parallax controller for the background
+- Event driven Boss stages
+- Use of [SceneReference library by Eflatun](https://github.com/starikcetin/Eflatun.SceneReference)
 
 # Caveats
+- By the time you're reading this, most of the assets will probably be nonoperative (due to Unity version update)
+- Same goes for the library used (it works best when downloaded into disk)
