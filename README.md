@@ -1,4 +1,4 @@
-<h1 align="center">Vertical-Shooter-Proto</h1>
+<h1 align="center">Vertical-Shooter-Proto _ Unity/C# Project</h1>
 <br>
 <p align="center">
     This is a prototype for a Vertical Shooter game.
